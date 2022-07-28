@@ -41,7 +41,7 @@ ggplot(CanStats, aes(x = Shots, y = Goals)) +
         annotate("text", x = 48, y = 12, label = "(Squares)", size = 2.5) +
         annotate("text", x = 87.5, y = 35, label = "Shots Inside the Box", size = 2.5) +
         annotate("text", x = 87.5, y = 33, label = "(Circles)", size = 2.5)
-print("Hello World")
+print("Hello World from VS Code")
 
 
 
