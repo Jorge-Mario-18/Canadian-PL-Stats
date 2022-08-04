@@ -12,6 +12,8 @@ All the work is done in RStudio and I have also provided two charts "Shots in th
 
 CPL Team Totals 2019.csv is the data set provided by the Canadian Premier League.
 
+In conclusion the data demonstrates the effectivness of shooting inside the box vs outside the box. 
+
 Please don't hesitate to tell me any suggestions on how I may improve! Thank You!
 
 
