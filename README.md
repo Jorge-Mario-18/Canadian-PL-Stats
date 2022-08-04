@@ -8,8 +8,6 @@ In this repository I used the data provided from CPL to demonstrate goals to sho
 
 I'm also attempting to demonstrate the effectiveness of goals inside the box vs outside of the box.
 
-I do not make any claims or come to any conclusion. I am merely showing that I can properly visulize and communicate the data provide.
-
 All the work is done in RStudio and I have also provided two charts "Shots in the box vs out the box" & "Conversion Rate"
 
 CPL Team Totals 2019.csv is the data set provided by the Canadian Premier League.
